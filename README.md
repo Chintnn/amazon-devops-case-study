@@ -60,7 +60,6 @@ Developer -> GitHub Actions -> Docker Build -> GitHub Container Registry -> Kube
 ![Rolling update](screenshots/09-rolling-update.png)
 ![Rollback](screenshots/10-rollback.png)
 ![Self-heal](screenshots/11-pod-self-heal.png)
-![Frequent releases](screenshots/11b-frequent-releases.png)
 
 ### Task 4 - Monitoring & Logging
 ![Targets](screenshots/12-prometheus-targets.png)
